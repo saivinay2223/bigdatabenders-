@@ -1,0 +1,11 @@
+movieId,avg_rating,rating_count,rating_std,title,genres
+179819,3.125,12,1.5539539012701526,Star Wars: The Last Jedi (2017),Action|Adventure|Fantasy|Sci-Fi
+1483,3.090909090909091,11,1.513574937328539,Crash (1996),Drama|Thriller
+174,2.7,10,1.4757295747452437,Jury Duty (1995),Comedy
+810,2.25,12,1.4381174563233068,Kazaam (1996),Children|Comedy|Fantasy
+177765,3.5384615384615383,13,1.4209964001470126,Coco (2017),Adventure|Animation|Children
+69644,2.607142857142857,14,1.4166397325601634,Ice Age: Dawn of the Dinosaurs (2009),Action|Adventure|Animation|Children|Comedy|Romance
+2427,3.3,35,1.4152530432649097,"Thin Red Line, The (1998)",Action|Drama|War
+7318,2.6153846153846154,13,1.401693115394233,"Passion of the Christ, The (2004)",Drama
+535,3.2666666666666666,15,1.3998299216418433,Short Cuts (1993),Drama
+737,2.65,20,1.3964240043768943,Barb Wire (1996),Action|Sci-Fi
